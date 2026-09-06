@@ -1,2 +1,18 @@
 
+.members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
 
+.member img {
+  width: 220px;
+  height: 220pxx;
+  object-fit: cover;
+}
+
+.member p{
+  font-size: 30px;
+  margin-top: 1px;
+  text-align: center;
+}
